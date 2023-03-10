@@ -1,0 +1,71 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{LiSurvey2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f591ba3f9c583b3f843f0ef227af5038}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yansheng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=42a43b68e533e39bbf05038fad61a09b}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Jiayi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e15e8454af64bad54150fbb7792b29d2}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yongjun},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5117ecc17d7ebe737e061416f0784cb}
+      \strng{fullhash}{f5117ecc17d7ebe737e061416f0784cb}
+      \strng{bibnamehash}{f5117ecc17d7ebe737e061416f0784cb}
+      \strng{authorbibnamehash}{f5117ecc17d7ebe737e061416f0784cb}
+      \strng{authornamehash}{f5117ecc17d7ebe737e061416f0784cb}
+      \strng{authorfullhash}{f5117ecc17d7ebe737e061416f0784cb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1566-2535}
+      \field{journaltitle}{Information Fusion}
+      \field{title}{Image retrieval from remote sensing big data: A survey}
+      \field{volume}{67}
+      \field{year}{2021}
+      \field{pages}{94\bibrangedash 115}
+      \range{pages}{22}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.inffus.2020.10.008
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1566253520303778
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1566253520303778
+      \endverb
+      \keyw{Remote sensing (rs) big data,Rs image retrieval methods,Rs image retrieval applications,Evaluation datasets and performance discussion,Future research directions}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
