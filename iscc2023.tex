@@ -15,11 +15,16 @@
     colorlinks=true,
     linkcolor=blue,
     filecolor=magenta,      
-    urlcolor=green,
+    urlcolor=teal,
     pdftitle={Iscc2023 Paper}
 }
 \usepackage{xurl}
-\usepackage[style=ieee]{biblatex}
+
+
+\usepackage[style=ieee,doi=false,url=false]{biblatex}
+\AtEveryBibitem{%
+  \clearfield{note}%
+}
 \addbibresource{tebaka2023.bib}
 
 \begin{document}    % 7 Pagine, Double Column
@@ -117,7 +122,7 @@ The greatest knowledge gained from the university and research entities can also
 \section{Related Works}
 % a panoramic view of the best literature, focus on technology.
 
-In \cite{LiSurvey2021} we have...
+In \cite{LiSurvey2021,Adao2017} we have...
 
 \lipsum[2-8] 
 

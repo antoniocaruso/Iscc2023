@@ -65,6 +65,71 @@
       \endverb
       \keyw{Remote sensing (rs) big data,Rs image retrieval methods,Rs image retrieval applications,Evaluation datasets and performance discussion,Future research directions}
     \endentry
+    \entry{Adao2017}{article}{}
+      \name{author}{7}{}{%
+        {{hash=39167ab419086a8a2fc2e6012c8a3ae9}{%
+           family={Adão},
+           familyi={A\bibinitperiod},
+           given={Telmo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8890887294e46c3dbe8cd026dc684188}{%
+           family={Hruška},
+           familyi={H\bibinitperiod},
+           given={Jonáš},
+           giveni={J\bibinitperiod}}}%
+        {{hash=379d76fb68d8353d2df7a3440ec52873}{%
+           family={Pádua},
+           familyi={P\bibinitperiod},
+           given={Luís},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b924d047070172533b2d9324ad14e295}{%
+           family={Bessa},
+           familyi={B\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bda151a314df8c5ba1ee1019b52ea266}{%
+           family={Peres},
+           familyi={P\bibinitperiod},
+           given={Emanuel},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5672130f9e6dfd860ccd60a266b51ce5}{%
+           family={Morais},
+           familyi={M\bibinitperiod},
+           given={Raul},
+           giveni={R\bibinitperiod}}}%
+        {{hash=497ff32dd906b65bfe6877d9b145ac17}{%
+           family={Sousa},
+           familyi={S\bibinitperiod},
+           given={Joaquim\bibnamedelima João},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{761d3cba2f1717445075790de88833d0}
+      \strng{fullhash}{431ab2af36597358becc5fbf7f7b93cd}
+      \strng{bibnamehash}{761d3cba2f1717445075790de88833d0}
+      \strng{authorbibnamehash}{761d3cba2f1717445075790de88833d0}
+      \strng{authornamehash}{761d3cba2f1717445075790de88833d0}
+      \strng{authorfullhash}{431ab2af36597358becc5fbf7f7b93cd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Remote Sensing}
+      \field{note}{Cited by: 572; All Open Access, Gold Open Access, Green Open Access}
+      \field{number}{11}
+      \field{title}{Hyperspectral imaging: A review on UAV-based sensors, data processing and applications for agriculture and forestry}
+      \field{type}{Article}
+      \field{volume}{9}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.3390/rs9111110
+      \endverb
+      \verb{urlraw}
+      \verb https://www.scopus.com/inward/record.uri?eid=2-s2.0-85034756154&doi=10.3390%2frs9111110&partnerID=40&md5=def788a062beeb5e8aca5a9d94db4e18
+      \endverb
+      \verb{url}
+      \verb https://www.scopus.com/inward/record.uri?eid=2-s2.0-85034756154&doi=10.3390%2frs9111110&partnerID=40&md5=def788a062beeb5e8aca5a9d94db4e18
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

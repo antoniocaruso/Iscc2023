@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber iscc2023"] 1678468892 "iscc2023.bcf" "iscc2023.bbl" "iscc2023" 1678468936
-  "iscc2023.bcf" 1678468935 106705 37e32c850520162bea8b66fadeb3ad5e "pdflatex"
-  "tebaka2023.bib" 1678468858 555 f0ff754d90704c7795f64f7482b7ec80 ""
+["biber iscc2023"] 1678469736 "iscc2023.bcf" "iscc2023.bbl" "iscc2023" 1678470101
+  "iscc2023.bcf" 1678470101 106768 5031ff0c06f3d2074f5bedee6c1c097b "pdflatex"
+  "tebaka2023.bib" 1678469690 1287 820d103e71bdc744ca467db7548ba76a ""
   (generated)
   "iscc2023.bbl"
   "iscc2023.blg"
-["pdflatex"] 1678468934 "/home/caruso/Scrivania/github/Iscc2023/iscc2023.tex" "iscc2023.pdf" "iscc2023" 1678468936
+["pdflatex"] 1678470100 "/home/caruso/Scrivania/github/Iscc2023/iscc2023.tex" "iscc2023.pdf" "iscc2023" 1678470101
   "/etc/texmf/web2c/texmf.cnf" 1656338991 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/caruso/Scrivania/github/Iscc2023/iscc2023.tex" 1678468934 9238 332d221d053a3fe45ff85dc7dfed003b ""
+  "/home/caruso/Scrivania/github/Iscc2023/iscc2023.tex" 1678470099 9309 d53718d2c1f4b338ddaa1edff0317fa4 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -23,13 +23,6 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1136768653 2288 f478fc8fed18759effb59f3dad7f3084 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm" 1136768653 4640 532ca3305aad10cc01d769f3f91f1029 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm" 1136768653 6944 94c55ad86e6ea2826f78ba2240d50df9 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1246382020 924 9904cf1d39e9767e7a3622f2a125a565 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1246382020 928 2dc8d444221b7a635bb58038579b861a ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1246382020 908 2921f8a10601f252058503cc6570e581 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1246382020 940 75ac932a52f80982a9f8ea75d03a34cf ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1246382020 940 228d6584342e91276bf566bcf9716b83 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1136849748 44729 811d6c62865936705a31c797a1d5dada ""
   "/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb" 1136849748 44656 0cbca70e0534538582128f6b54593cca ""
   "/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1136849748 46026 6dab18b61c907687b520c72847215a68 ""
@@ -57,8 +50,6 @@
   "/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty" 1251330371 9318 793e9d5a71e74e730d97f6bf5d7e2bca ""
   "/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty" 1359763108 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
   "/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty" 1359763108 13829 94730e64147574077f8ecfea9bb69af4 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd" 1359763108 961 6518c6525a34feb5e8250ffa91731cff ""
-  "/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd" 1359763108 961 d02606146ba5601b5645f987c92e6193 ""
   "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1654720880 2222 78b930a5a6e3dc2ac69b78c2057b94d7 ""
   "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty" 1654720880 4173 c989ee3ced31418e3593916ab26c793a ""
   "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty" 1654720880 88393 1adf6fa3f245270d06e3d4f8910f7fc5 ""
@@ -124,11 +115,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1658757727 39561 34c98e380bf7c7201ee6a7909aff625a ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1666711090 4595794 2d34e5a126a0aa697a2f4f787f7af198 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1666711155 2864801 9d6fdf33027c5aa61f0031aa4e1d2fbc ""
-  "iscc2023.aux" 1678468935 1908 e0e58d2309547bd7d8f6a3e5441a1011 "pdflatex"
-  "iscc2023.bbl" 1678468894 2474 f35851dad2a5c1e5027cf8e1ebb58b18 "biber iscc2023"
-  "iscc2023.out" 1678468935 1213 e1d943f173e75ed091b839a4de466b12 "pdflatex"
-  "iscc2023.run.xml" 1678468935 2430 2362b57de4b6f33333ebee05f3b1f847 "pdflatex"
-  "iscc2023.tex" 1678468934 9238 332d221d053a3fe45ff85dc7dfed003b ""
+  "iscc2023.aux" 1678470101 2033 fcc6e3845ad2ecde9c20ae9c267013a4 "pdflatex"
+  "iscc2023.bbl" 1678469737 5208 d558d7f558147cea952891495b08c3c9 "biber iscc2023"
+  "iscc2023.out" 1678470101 1213 e1d943f173e75ed091b839a4de466b12 "pdflatex"
+  "iscc2023.run.xml" 1678470101 2430 2362b57de4b6f33333ebee05f3b1f847 "pdflatex"
+  "iscc2023.tex" 1678470099 9309 d53718d2c1f4b338ddaa1edff0317fa4 ""
   (generated)
   "iscc2023.aux"
   "iscc2023.bcf"
