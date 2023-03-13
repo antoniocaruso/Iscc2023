@@ -1,11 +1,12 @@
-\documentclass[conference]{IEEEtran}
+\documentclass[a4paper, comsoc]{IEEEtran}
 \usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\graphicspath{{figs/}}
 
 \IEEEoverridecommandlockouts
 
 \usepackage{amsmath,amssymb,amsfonts}
 \usepackage{algorithmic}
-\usepackage{graphicx}
 \usepackage{textcomp}
 \usepackage{xcolor}
 \usepackage{lipsum}
@@ -21,7 +22,7 @@
 \usepackage{xurl}
 
 
-\usepackage[style=ieee,doi=false,url=false]{biblatex}
+\usepackage[style=ieee,doi=false,url=true]{biblatex}
 \AtEveryBibitem{%
   \clearfield{note}%
 }
@@ -41,24 +42,50 @@ Tebaka, proposal, impact, some work.
 \end{abstract}
 
 \begin{IEEEkeywords}
-smart agriculture, deep learning, remote sensing
+digital agriculture, precision agriculture, satellite images, deep learning, machine learning,
+sensor networks and iot
 \end{IEEEkeywords}
 
 
 \section{Introduction}
 % general intro to agritech and relevance for computer science.
 
-The proposed industrial research project has different objectives:
+The enabling technologies of distributed sensor networks, internet of things, remote sensing with multi-spectral cameras on satellites, drones and aerial platforms, together with smart decision support systems are key contributors for the emerging field of \emph{Digital Agriculture} (DA) or \emph{Agriculture 4.0} \cite{de2018agriculture}. 
+This is an \emph{umbrella term} used to designate the transformation of farming that includes digitalization and automation of farming tasks. This area of research, encompass a new vision of the farming industry as a cyber-physical farm, and includes all technological areas such as: big-data platforms, machine learning and data-driven models to relate the observations of the phenological stages of plants with field yield and crop quality. 
 
-the structured acquisition of knowledge (represented by experimentally validated models and algorithms / calculation codes) relating to the specific conditions of the annual crop life cycle (grain, vine and olive) and significant variables of the related area / environment;
-the creation of an integrated multiscale platform / satellite payload system, aircraft and land (mobile and fixed) and a mobile control room / control center for the management of large scale observation, targeted (small / media scale), specific (on condition on critical events) of the crops and related territories / environments;
-the definition and implementation of a network architecture with a command / control center for the management of large amounts of captured and manipulated data in order to build a machine learning system for modeling and decision supporting:
-the design of a network-based service for farmers to provide them with an easy and economically viable source of information to support the better management of the processes of the annual production cycle of their crops;
-Defining the methodology and the best observation missions in the various stages of the annual crop production cycle to optimize the cost / benefit ratio.
+The high-level goal is to support agronomist with \emph{Precision Agriculture} management practices, to better solve the challenges and demand of an increasing world-population, rising production costs (like energy), labor shortages, climate and environmental changes (like water resource scarcity). It leverage extensive knowledge acquisition using remote sensing technologies, and on-the-field deployment of sensors and iot networks, to improve knowledge acquisition and situated situation awareness, to maximize resource usage and crop yield while minimizing associated costs.
 
-\lipsum[2-8]
+In the United States, the use of yield-maps and soil maps are adopted only by 5 to 25 percent of total U.S. farms; on the other hand, automated guidance, has increased sharply, with the advance in deep-learning applied to computer vision, and it is applied to over 50 percent of the cultivated areas. A good survey of the trend in the technology evolution of a \emph{Smart Farm} in U.S. is in \cite{mcfadden2023precision}. USDA (The U.S. Department of Agriculture) is investing up to $2.8$ billion in $70$ selected projects under the first Partnerships for Climate-Smart Commodities funding pool, as a part of the Inflaction Reduction Act.
 
-\section{Tebaka Project Description}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\columnwidth]{agriengineering-04-00029-g005}
+    \caption{A classification of active European Union funded project in the area of Digital Agriculture (from \cite{agriengineering4020029})}
+    \label{fig:euprojects}
+\end{figure}
+
+In Europe, the European Community has funded many project that integrate ICT technologies and Digital Argriculture, we see in Figure \ref{fig:euprojects} from \cite{agriengineering4020029} a collection of active research project and startups, classified in different areas, such as:  \emph{Crop Monitoring}  (the largest one), \emph{Harvesting}, optimization of \emph{Resource Managements} and \emph{Innovative Policies and Solutions} with more than $41$ iniziatives. In Table \ref{fig:table-worldwide} another list of worldwide projects that are actually funded, with a major role African and Middle-East countries.
+
+In this paper, we present the activities of the \textbf{TEBAKA} project: A national project funded by PON-FESN  dedicated to the area of Digital Agriculture in the south part of Italy (Mezzogiorno) and in particular in the Apulia region (Puglia), with the aim to improve the knowledge acquisition techniques, based on a mixture of different remote sensing systems (satellites, airplane, and drones), IoT and sensor networks on-the-field deployments, and a rich campaign of soil and plant physical and chemical  measurements taken with specialized personnel (agronomist researchers and ph.d. students). 
+
+
+The project goals are: structured acquisition of knowledge (represented by experimentally by validated models and algorithms) relating the specific conditions of the annual crop life cycle (grain, vine and olive) with significant variables of the related environment;
+the creation of an integrated multiscale platform / satellite payload system, aircraft and land (mobile and fixed) and a mobile control room / control center for the management of large scale observation, targeted (small / media scale), specific (on condition on critical events) of the crops and related territories / environments; the definition and implementation of a network architecture with a command / control center for the management of large amounts of captured and manipulated data in order to build a machine learning system for modeling and decision supporting: the design of a network-based service for farmers to provide them with an easy and economically viable source of information to support the better management of the processes of the annual production cycle of their crops; Defining the methodology and the best observation missions in the various stages of the annual crop production cycle to optimize the cost / benefit ratio.
+
+The rest of the paper is organized as follow: in \ref{sec:tebaka} we review the project structure and management organization, the partnership and roles, the research goals and actual status; in \ref{sec:activities} we present some interesting original research results obtained, with an emphasis on the results that are of interest for the ICT community and in particular for the communication and computational point of view; in \ref{sec:related} we collected some of the most relevant works that shape the area, and finally we drawn in \ref{sec:conclusion} the conclusions.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\columnwidth]{research-table}
+    \caption{A list of worldwide projects related to the area of Digital Agriculture (from \cite{agriengineering4020029})}
+    \label{fig:table-worldwide}
+\end{figure}
+
+
+
+
+\section{Tebaka Project Description}\label{sec:tebaka}
 % general project descript, partenrs, period, structure, goals
 
 The present research project aims to define a “platform” solution for crops of grain, vines and olive oil, all of which are significantly present in the Puglia region, and will operate through stages of knowledge development and design / realization of prototype solutions that is articulated in the following basic structure:
@@ -103,7 +130,7 @@ The greatest knowledge gained from the university and research entities can also
 
 \lipsum[2-3]
 
-\section{Project Activities} 
+\section{Project Activities}\label{sec:activities}
 % main part: flow of activities, from observation to 
 % practical agronomic practice.
 
@@ -119,14 +146,14 @@ The greatest knowledge gained from the university and research entities can also
 
 \lipsum[2-10]  %<- to be filled
 
-\section{Related Works}
+\section{Related Works}\label{sec:related}
 % a panoramic view of the best literature, focus on technology.
 
 In \cite{LiSurvey2021,Adao2017} we have...
 
 \lipsum[2-8] 
 
-\section{Conclusion} 
+\section{Conclusion}\label{sec:conclusion}
 \lipsum[1-3]
 
 \section*{Acknowledgment}
