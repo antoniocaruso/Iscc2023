@@ -1,15 +1,15 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
-[0] Config.pm:309> INFO - Logfile is 'iscc2023.blg'
-[133] biber:340> INFO - === ven mar 10, 2023, 18:35:37
-[154] Biber.pm:418> INFO - Reading 'iscc2023.bcf'
-[278] Biber.pm:978> INFO - Found 2 citekeys in bib section 0
-[304] Biber.pm:4401> INFO - Processing section 0
-[321] Biber.pm:4592> INFO - Looking for bibtex file 'tebaka2023.bib' for section 0
-[322] bibtex.pm:1713> INFO - LaTeX decoding ...
-[329] bibtex.pm:1518> INFO - Found BibTeX data source 'tebaka2023.bib'
-[422] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[423] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[423] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[424] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[445] bbl.pm:654> INFO - Writing 'iscc2023.bbl' with encoding 'UTF-8'
-[449] bbl.pm:757> INFO - Output to iscc2023.bbl
+[1] Config.pm:309> INFO - Logfile is 'iscc2023.blg'
+[144] biber:340> INFO - === gio mar 16, 2023, 15:05:17
+[170] Biber.pm:418> INFO - Reading 'iscc2023.bcf'
+[285] Biber.pm:975> INFO - Using all citekeys in bib section 0
+[310] Biber.pm:4401> INFO - Processing section 0
+[330] Biber.pm:4592> INFO - Looking for bibtex file 'tebaka2023.bib' for section 0
+[333] bibtex.pm:1713> INFO - LaTeX decoding ...
+[376] bibtex.pm:1518> INFO - Found BibTeX data source 'tebaka2023.bib'
+[674] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[674] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[675] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[675] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[703] bbl.pm:654> INFO - Writing 'iscc2023.bbl' with encoding 'UTF-8'
+[727] bbl.pm:757> INFO - Output to iscc2023.bbl

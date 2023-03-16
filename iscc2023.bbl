@@ -19,6 +19,598 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{de2018agriculture}{article}{}
+      \name{author}{3}{}{%
+        {{hash=935ea3f29e332d2f68f851a73924a83e}{%
+           family={De\bibnamedelima Clercq},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Matthieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a89d620a468bdd77793933a9f344c0f4}{%
+           family={Vats},
+           familyi={V\bibinitperiod},
+           given={Anshu},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8c0ed9ba91e3deb9fb4dfd4705256898}{%
+           family={Biel},
+           familyi={B\bibinitperiod},
+           given={Alvaro},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{15ab1567eb72195a822495ee93c8b0d7}
+      \strng{fullhash}{15ab1567eb72195a822495ee93c8b0d7}
+      \strng{bibnamehash}{15ab1567eb72195a822495ee93c8b0d7}
+      \strng{authorbibnamehash}{15ab1567eb72195a822495ee93c8b0d7}
+      \strng{authornamehash}{15ab1567eb72195a822495ee93c8b0d7}
+      \strng{authorfullhash}{15ab1567eb72195a822495ee93c8b0d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the World Government Summit, Dubai, UAE}
+      \field{title}{Agriculture 4.0: The future of farming technology}
+      \field{year}{2018}
+      \field{pages}{11\bibrangedash 13}
+      \range{pages}{3}
+    \endentry
+    \entry{mcfadden2023precision}{online}{}
+      \name{author}{3}{}{%
+        {{hash=a5f465a3b9439a775a4745b68411f367}{%
+           family={McFadden},
+           familyi={M\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=79983b45ddd4b2367aa694803330a22d}{%
+           family={Njuki},
+           familyi={N\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a3a4da7c896b24971ddeea28fefa44f8}{%
+           family={Griffin},
+           familyi={G\bibinitperiod},
+           given={Terry},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{95581a4129c32250247cc0b844e0fad2}
+      \strng{fullhash}{95581a4129c32250247cc0b844e0fad2}
+      \strng{bibnamehash}{95581a4129c32250247cc0b844e0fad2}
+      \strng{authorbibnamehash}{95581a4129c32250247cc0b844e0fad2}
+      \strng{authornamehash}{95581a4129c32250247cc0b844e0fad2}
+      \strng{authorfullhash}{95581a4129c32250247cc0b844e0fad2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Precision Agriculture in the Digital Era: Recent Adoption on US Farms}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ers.usda.gov/webdocs/publications/105894/eib-248.pdf?v=9219.8
+      \endverb
+      \verb{url}
+      \verb https://www.ers.usda.gov/webdocs/publications/105894/eib-248.pdf?v=9219.8
+      \endverb
+    \endentry
+    \entry{agriengineering4020029}{article}{}
+      \name{author}{4}{}{%
+        {{hash=bb91fca59ddeb55ccc0aa3d3d9319684}{%
+           family={Yadav},
+           familyi={Y\bibinitperiod},
+           given={Sargam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=375162b19892b682046ce7b0429c0dd0}{%
+           family={Kaushik},
+           familyi={K\bibinitperiod},
+           given={Abhishek},
+           giveni={A\bibinitperiod}}}%
+        {{hash=437ebfe6338fd5fec20a5dbce908f6de}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Mahak},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2ebc97c1eab4d7f7cc603b0a80ad4c33}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Shubham},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d8149701e9bb54c9167093eaa4b6042}
+      \strng{fullhash}{646fbf6b52d08caf1be3ddec99e4d5a1}
+      \strng{bibnamehash}{646fbf6b52d08caf1be3ddec99e4d5a1}
+      \strng{authorbibnamehash}{646fbf6b52d08caf1be3ddec99e4d5a1}
+      \strng{authornamehash}{6d8149701e9bb54c9167093eaa4b6042}
+      \strng{authorfullhash}{646fbf6b52d08caf1be3ddec99e4d5a1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Smart Farming (SF) is an emerging technology in the current agricultural landscape. The aim of Smart Farming is to provide tools for various agricultural and farming operations to improve yield by reducing cost, waste, and required manpower. SF is a data-driven approach that can mitigate losses that occur due to extreme weather conditions and calamities. The influx of data from various sensors, and the introduction of information communication technologies (ICTs) in the field of farming has accelerated the implementation of disruptive technologies (DTs) such as machine learning and big data. Application of these predictive and innovative tools in agriculture is crucial for handling unprecedented conditions such as climate change and the increasing global population. In this study, we review the recent advancements in the field of Smart Farming, which include novel use cases and projects around the globe. An overview of the challenges associated with the adoption of such technologies in their respective regions is also provided. A brief analysis of the general sentiment towards Smart Farming technologies is also performed by manually annotating YouTube comments and making use of the pattern library. Preliminary findings of our study indicate that, though there are several barriers to the implementation of SF tools, further research and innovation can alleviate such risks and ensure sustainability of the food supply. The exploratory sentiment analysis also suggests that most digital users are not well-informed about such technologies.}
+      \field{issn}{2624-7402}
+      \field{journaltitle}{AgriEngineering}
+      \field{number}{2}
+      \field{title}{Disruptive Technologies in Smart Farming: An Expanded View with Sentiment Analysis}
+      \field{volume}{4}
+      \field{year}{2022}
+      \field{pages}{424\bibrangedash 460}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.3390/agriengineering4020029
+      \endverb
+    \endentry
+    \entry{s21051617}{article}{}
+      \name{author}{5}{}{%
+        {{hash=553b89fee17799aa6243e95f93412b38}{%
+           family={Safonova},
+           familyi={S\bibinitperiod},
+           given={Anastasiia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=164c60b7eec532b476d20fa3a9edc0cc}{%
+           family={Guirado},
+           familyi={G\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f014b2b9a99d71b794cf84bb5ffb4a32}{%
+           family={Maglinets},
+           familyi={M\bibinitperiod},
+           given={Yuriy},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0fe270331dee9eaf09e418689aa172b0}{%
+           family={Alcaraz-Segura},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Domingo},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5d79f34727bcbbd23065a0c111485c1b}{%
+           family={Tabik},
+           familyi={T\bibinitperiod},
+           given={Siham},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc463349978d22a433ae1fa5a531cd27}
+      \strng{fullhash}{ec4f62ab7e91bf5486df62448d752f3c}
+      \strng{bibnamehash}{ec4f62ab7e91bf5486df62448d752f3c}
+      \strng{authorbibnamehash}{ec4f62ab7e91bf5486df62448d752f3c}
+      \strng{authornamehash}{bc463349978d22a433ae1fa5a531cd27}
+      \strng{authorfullhash}{ec4f62ab7e91bf5486df62448d752f3c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors}
+      \field{number}{5}
+      \field{title}{Olive Tree Biovolume from UAV Multi-Resolution Image Segmentation with Mask R-CNN}
+      \field{volume}{21}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.3390/s21051617
+      \endverb
+      \keyw{rel_wor}
+    \endentry
+    \entry{rs14061523}{article}{}
+      \name{author}{8}{}{%
+        {{hash=e70fdfd7010df0279d5098aee9c4e5ec}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Zhangxi},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=90a97ce4350b853a95712e8a954c2a59}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Jiahao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a052114a9e2af091f675455a97ab464f}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Yuwei},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=547c428bff1c380c2dc6d8c002dd940b}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=112faefb37293f52cd92c3bb36fcc08b}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c3aed842fb1f229c103ae7de47ae4bd0}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Houxi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ac5a0e95ae06c07e9a1e260e41ded48a}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d4ccc0b08c79b988c4511a8d2784c346}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Kaijie},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{08f14f7fe77d6499db39a4e60d470df7}
+      \strng{fullhash}{d05d36e79e17c54b713875f95853cd23}
+      \strng{bibnamehash}{08f14f7fe77d6499db39a4e60d470df7}
+      \strng{authorbibnamehash}{08f14f7fe77d6499db39a4e60d470df7}
+      \strng{authornamehash}{08f14f7fe77d6499db39a4e60d470df7}
+      \strng{authorfullhash}{d05d36e79e17c54b713875f95853cd23}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2072-4292}
+      \field{journaltitle}{Remote Sensing}
+      \field{number}{6}
+      \field{title}{Extraction of Olive Crown Based on UAV Visible Images and the U2-Net Deep Learning Model}
+      \field{volume}{14}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3390/rs14061523
+      \endverb
+      \keyw{rel_wor}
+    \endentry
+    \entry{Egli20201}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3e07be089565061c6aa0238a43337e24}{%
+           family={Egli},
+           familyi={E\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a79445c4e0abfe32eeb3096649c92b30}{%
+           family={Höpke},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{6cbb74b7a8ee825b1b2f1d51a2534b22}
+      \strng{fullhash}{6cbb74b7a8ee825b1b2f1d51a2534b22}
+      \strng{bibnamehash}{6cbb74b7a8ee825b1b2f1d51a2534b22}
+      \strng{authorbibnamehash}{6cbb74b7a8ee825b1b2f1d51a2534b22}
+      \strng{authornamehash}{6cbb74b7a8ee825b1b2f1d51a2534b22}
+      \strng{authorfullhash}{6cbb74b7a8ee825b1b2f1d51a2534b22}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Remote Sensing}
+      \field{note}{Cited by: 18; All Open Access, Gold Open Access, Green Open Access}
+      \field{number}{23}
+      \field{title}{Cnn-based tree species classification using high resolution rgb image data from automated uav observations}
+      \field{type}{Article}
+      \field{volume}{12}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.3390/rs12233892
+      \endverb
+      \keyw{rel_wor}
+    \endentry
+    \entry{ruswurm_multi-temporal_2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=79459fbb8b30a6b984f147d458fe144d}{%
+           family={Rußwurm},
+           familyi={R\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8a8d7b49c90bea2bda320d9c990f9572}{%
+           family={Körner},
+           familyi={K\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d73935e5935fc6dab9b17c30b48968f7}
+      \strng{fullhash}{d73935e5935fc6dab9b17c30b48968f7}
+      \strng{bibnamehash}{d73935e5935fc6dab9b17c30b48968f7}
+      \strng{authorbibnamehash}{d73935e5935fc6dab9b17c30b48968f7}
+      \strng{authornamehash}{d73935e5935fc6dab9b17c30b48968f7}
+      \strng{authorfullhash}{d73935e5935fc6dab9b17c30b48968f7}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Earth observation (EO) sensors deliver data at daily or weekly intervals. Most land use and land cover classiﬁcation (LULC) approaches, however, are designed for cloud-free and mono-temporal observations. The increasing temporal capabilities of today’s sensors enable the use of temporal, along with spectral and spatial features.Domains such as speech recognition or neural machine translation, work with inherently temporal data and, today, achieve impressive results by using sequential encoder-decoder structures. Inspired by these sequence-to-sequence models, we adapt an encoder structure with convolutional recurrent layers in order to approximate a phenological model for vegetation classes based on a temporal sequence of Sentinel 2 (S2) images. In our experiments, we visualize internal activations over a sequence of cloudy and non-cloudy images and ﬁnd several recurrent cells that reduce the input activity for cloudy observations. Hence, we assume that our network has learned cloud-ﬁltering schemes solely from input data, which could alleviate the need for tedious cloud-ﬁltering as a preprocessing step for many EO approaches. Moreover, using unﬁltered temporal series of top-of-atmosphere (TOA) reﬂectance data, our experiments achieved state-of-the-art classiﬁcation accuracies on a large number of crop classes with minimal preprocessing, compared to other classiﬁcation approaches.}
+      \field{issn}{2220-9964}
+      \field{journaltitle}{ISPRS International Journal of Geo-Information}
+      \field{note}{arXiv:1802.02080 [cs]}
+      \field{number}{4}
+      \field{title}{Multi-{Temporal} {Land} {Cover} {Classification} with {Sequential} {Recurrent} {Encoders}}
+      \field{urlday}{15}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{7}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{129}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/ijgi7040129
+      \endverb
+      \keyw{sat}
+    \endentry
+    \entry{daudt_fully_2018}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=8524c1b3b2b6af5d28bcbb7b4fdb747d}{%
+           family={Daudt},
+           familyi={D\bibinitperiod},
+           given={Rodrigo\bibnamedelima Caye},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ad90438395d3b982c0cc109ec887849f}{%
+           family={Saux},
+           familyi={S\bibinitperiod},
+           given={Bertrand\bibnamedelima Le},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6ef1c7c9e05b71a8bcc98f65abd85bee}{%
+           family={Boulch},
+           familyi={B\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{cc05a791f06d3b93439408356a92e114}
+      \strng{fullhash}{cc05a791f06d3b93439408356a92e114}
+      \strng{bibnamehash}{cc05a791f06d3b93439408356a92e114}
+      \strng{authorbibnamehash}{cc05a791f06d3b93439408356a92e114}
+      \strng{authornamehash}{cc05a791f06d3b93439408356a92e114}
+      \strng{authorfullhash}{cc05a791f06d3b93439408356a92e114}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents three fully convolutional neural network architectures which perform change detection using a pair of coregistered images. Most notably, we propose two Siamese extensions of fully convolutional networks which use heuristics about the current problem to achieve the best results in our tests on two open change detection datasets, using both RGB and multispectral images. We show that our system is able to learn from scratch using annotated change detection images. Our architectures achieve better performance than previously proposed methods, while being at least 500 times faster than related systems. This work is a step towards efﬁcient processing of data from large scale Earth observation systems such as Copernicus or Landsat.}
+      \field{month}{10}
+      \field{note}{Number: arXiv:1810.08462 arXiv:1810.08462 [cs]}
+      \field{title}{Fully {Convolutional} {Siamese} {Networks} for {Change} {Detection}}
+      \field{urlday}{12}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \keyw{sat}
+    \endentry
+    \entry{ienco_land_2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=032d83b17b20ffc7e6ff21cb2849784a}{%
+           family={Ienco},
+           familyi={I\bibinitperiod},
+           given={Dino},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e261906b46a13ae05faba8e32435d2ea}{%
+           family={Gaetano},
+           familyi={G\bibinitperiod},
+           given={Raffaele},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8bce488c757e741dfc92f4fa2303e7f9}{%
+           family={Dupaquier},
+           familyi={D\bibinitperiod},
+           given={Claire},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e8e0afadb1f3094c69d1a69873119cc9}{%
+           family={Maurel},
+           familyi={M\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{bb3ab99c2948bceffe5afd97c481c620}
+      \strng{fullhash}{81a2e809dffad4653992b2b9c6be9b37}
+      \strng{bibnamehash}{81a2e809dffad4653992b2b9c6be9b37}
+      \strng{authorbibnamehash}{81a2e809dffad4653992b2b9c6be9b37}
+      \strng{authornamehash}{bb3ab99c2948bceffe5afd97c481c620}
+      \strng{authorfullhash}{81a2e809dffad4653992b2b9c6be9b37}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nowadays, modern earth observation programs produce huge volumes of satellite images time series (SITS) that can be useful to monitor geographical areas through time. How to efﬁciently analyze such kind of information is still an open question in the remote sensing ﬁeld. Recently, deep learning methods proved suitable to deal with remote sensing data mainly for scene classiﬁcation (i.e. Convolutional Neural Networks - CNNs - on single images) while only very few studies exist involving temporal deep learning approaches (i.e Recurrent Neural Networks - RNNs) to deal with remote sensing time series.}
+      \field{issn}{1545-598X, 1558-0571}
+      \field{journaltitle}{IEEE Geoscience and Remote Sensing Letters}
+      \field{month}{10}
+      \field{note}{arXiv:1704.04055 [cs]}
+      \field{number}{10}
+      \field{title}{Land {Cover} {Classification} via {Multi}-temporal {Spatial} {Data} by {Recurrent} {Neural} {Networks}}
+      \field{urlday}{15}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{14}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1685\bibrangedash 1689}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/LGRS.2017.2728698
+      \endverb
+      \verb{file}
+      \verb Ienco et al. - 2017 - Land Cover Classification via Multi-temporal Spati.pdf:/home/lore/Zotero/storage/AMTHB9DV/Ienco et al. - 2017 - Land Cover Classification via Multi-temporal Spati.pdf:application/pdf
+      \endverb
+      \keyw{sat}
+    \endentry
+    \entry{gurumurthy_mango_2019}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=16c6be0dfad2a0fd15e2ac9a2610c2bc}{%
+           family={Gurumurthy},
+           familyi={G\bibinitperiod},
+           given={Vikas\bibnamedelima Agaradahalli},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=9d03dcccbd2c094ba0b12b508246b4ad}{%
+           family={Kestur},
+           familyi={K\bibinitperiod},
+           given={Ramesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=85bd7aad96208071e366c6dac39b5545}{%
+           family={Narasipura},
+           familyi={N\bibinitperiod},
+           given={Omkar},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{dfcecfa0206fb8801a33a5bfabb1e2d8}
+      \strng{fullhash}{dfcecfa0206fb8801a33a5bfabb1e2d8}
+      \strng{bibnamehash}{dfcecfa0206fb8801a33a5bfabb1e2d8}
+      \strng{authorbibnamehash}{dfcecfa0206fb8801a33a5bfabb1e2d8}
+      \strng{authornamehash}{dfcecfa0206fb8801a33a5bfabb1e2d8}
+      \strng{authorfullhash}{dfcecfa0206fb8801a33a5bfabb1e2d8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This work presents a method for semantic segmentation of mango trees in high resolution aerial imagery, and, a novel method for individual crown detection of mango trees using segmentation output. Mango Tree Net, a fully convolutional neural network (FCN), is trained using supervised learning to perform semantic segmentation of mango trees in imagery acquired using an unmanned aerial vehicle (UAV). The proposed network is retrained to separate touching/overlapping tree crowns in segmentation output. Contour based connected object detection is performed on the segmentation output from retrained network. Bounding boxes are drawn on the original images using coordinates of connected objects to achieve individual crown detection. The training dataset consists of 8, 824 image patches of size 240 × 240. The approach is tested for performance on segmentation and individual crown detection tasks using test datasets containing 36 and 4 images respectively. The performance is analyzed using standard metrics precision, recall, f1-score and accuracy. Results obtained demonstrate the robustness of the proposed methods despite variations in factors such as scale, occlusion, lighting conditions and surrounding vegetation.}
+      \field{month}{7}
+      \field{note}{arXiv:1907.06915 [cs]}
+      \field{title}{Mango {Tree} {Net} -- {A} fully convolutional network for semantic segmentation and individual crown detection of mango trees}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Gurumurthy et al. - 2019 - Mango Tree Net -- A fully convolutional network fo.pdf:/home/lore/Zotero/storage/95RHBGYH/Gurumurthy et al. - 2019 - Mango Tree Net -- A fully convolutional network fo.pdf:application/pdf
+      \endverb
+      \keyw{Computer Science - Computer Vision and Pattern Recognition,rel_wor}
+    \endentry
+    \entry{guirado_mask_2021}{article}{}
+      \name{author}{7}{}{%
+        {{hash=164c60b7eec532b476d20fa3a9edc0cc}{%
+           family={Guirado},
+           familyi={G\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=fbf132c0e4dfa84c1b2f0bcb6782fe2e}{%
+           family={Blanco-Sacristán},
+           familyi={B\bibinithyphendelim S\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=85daf053118f41adc5aac16ac4d901f5}{%
+           family={Rodríguez-Caballero},
+           familyi={R\bibinithyphendelim C\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5d79f34727bcbbd23065a0c111485c1b}{%
+           family={Tabik},
+           familyi={T\bibinitperiod},
+           given={Siham},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0fe270331dee9eaf09e418689aa172b0}{%
+           family={Alcaraz-Segura},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Domingo},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6b321ae4c07867f63746f9c2bc71fa81}{%
+           family={Martínez-Valderrama},
+           familyi={M\bibinithyphendelim V\bibinitperiod},
+           given={Jaime},
+           giveni={J\bibinitperiod}}}%
+        {{hash=56332a8798aeef86970ffb05327bfe53}{%
+           family={Cabello},
+           familyi={C\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b6a1f64559c5a8d6f21be572e504b31a}
+      \strng{fullhash}{8238281276a7bafb615babaa6c0aef5f}
+      \strng{bibnamehash}{b6a1f64559c5a8d6f21be572e504b31a}
+      \strng{authorbibnamehash}{b6a1f64559c5a8d6f21be572e504b31a}
+      \strng{authornamehash}{b6a1f64559c5a8d6f21be572e504b31a}
+      \strng{authorfullhash}{8238281276a7bafb615babaa6c0aef5f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Vegetation generally appears scattered in drylands. Its structure, composition and spatial patterns are key controls of biotic interactions, water, and nutrient cycles. Applying segmentation methods to very high-resolution images for monitoring changes in vegetation cover can provide relevant information for dryland conservation ecology. For this reason, improving segmentation methods and understanding the effect of spatial resolution on segmentation results is key to improve dryland vegetation monitoring. We explored and analyzed the accuracy of Object-Based Image Analysis (OBIA) and Mask Region-based Convolutional Neural Networks (Mask R-CNN) and the fusion of both methods in the segmentation of scattered vegetation in a dryland ecosystem. As a case study, we mapped Ziziphus lotus, the dominant shrub of a habitat of conservation priority in one of the driest areas of Europe. Our results show for the ﬁrst time that the fusion of the results from OBIA and Mask R-CNN increases the accuracy of the segmentation of scattered shrubs up to 25\% compared to both methods separately. Hence, by fusing OBIA and Mask R-CNNs on very high-resolution images, the improved segmentation accuracy of vegetation mapping would lead to more precise and sensitive monitoring of changes in biodiversity and ecosystem services in drylands.}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Mask {R}-{CNN} and {OBIA} {Fusion} {Improves} the {Segmentation} of {Scattered} {Vegetation} in {Very} {High}-{Resolution} {Optical} {Sensors}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{21}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{320}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s21010320
+      \endverb
+      \verb{file}
+      \verb Guirado et al. - 2021 - Mask R-CNN and OBIA Fusion Improves the Segmentati.pdf:/home/lore/Zotero/storage/KCYZYH5N/Guirado et al. - 2021 - Mask R-CNN and OBIA Fusion Improves the Segmentati.pdf:application/pdf
+      \endverb
+      \keyw{rel_wor}
+    \endentry
+    \entry{ronneberger_u-net_2015}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=8e46da9de9e53ea5d37089897d69cdd9}{%
+           family={Ronneberger},
+           familyi={R\bibinitperiod},
+           given={Olaf},
+           giveni={O\bibinitperiod}}}%
+        {{hash=168e84ce3582cbc6bac5e2ebc3ef8442}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b452a32296958371572717940f900884}{%
+           family={Brox},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{fullhash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{bibnamehash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{authorbibnamehash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{authornamehash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{authorfullhash}{f23ccc5160c62c7866172335b2c76e11}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{18}
+      \field{eprinttype}{arxiv}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{{arXiv}:1505.04597}
+      \field{shorttitle}{U-Net}
+      \field{title}{U-Net: Convolutional Networks for Biomedical Image Segmentation}
+      \field{urlday}{13}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{eprint}
+      \verb 1505.04597 [cs]
+      \endverb
+      \verb{file}
+      \verb Ronneberger et al. - 2015 - U-Net Convolutional Networks for Biomedical Image.pdf:/home/lore/Zotero/storage/XMPDRWWX/Ronneberger et al. - 2015 - U-Net Convolutional Networks for Biomedical Image.pdf:application/pdf
+      \endverb
+      \keyw{Computer Science - Computer Vision and Pattern Recognition}
+    \endentry
     \entry{LiSurvey2021}{article}{}
       \name{author}{3}{}{%
         {{hash=f591ba3f9c583b3f843f0ef227af5038}{%
@@ -52,16 +644,11 @@
       \field{title}{Image retrieval from remote sensing big data: A survey}
       \field{volume}{67}
       \field{year}{2021}
+      \true{nocite}
       \field{pages}{94\bibrangedash 115}
       \range{pages}{22}
       \verb{doi}
       \verb https://doi.org/10.1016/j.inffus.2020.10.008
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S1566253520303778
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S1566253520303778
       \endverb
       \keyw{Remote sensing (rs) big data,Rs image retrieval methods,Rs image retrieval applications,Evaluation datasets and performance discussion,Future research directions}
     \endentry
@@ -120,14 +707,106 @@
       \field{type}{Article}
       \field{volume}{9}
       \field{year}{2017}
+      \true{nocite}
       \verb{doi}
       \verb 10.3390/rs9111110
       \endverb
-      \verb{urlraw}
-      \verb https://www.scopus.com/inward/record.uri?eid=2-s2.0-85034756154&doi=10.3390%2frs9111110&partnerID=40&md5=def788a062beeb5e8aca5a9d94db4e18
+    \endentry
+    \entry{lu_survey_2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ff82268cb4ef19500fe29f3af4f5d06c}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yuzhen},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0939e76239ee365cf6932b645e41a940}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Sierra},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b82e0b79f8f312d98e972f602595990d}
+      \strng{fullhash}{b82e0b79f8f312d98e972f602595990d}
+      \strng{bibnamehash}{b82e0b79f8f312d98e972f602595990d}
+      \strng{authorbibnamehash}{b82e0b79f8f312d98e972f602595990d}
+      \strng{authornamehash}{b82e0b79f8f312d98e972f602595990d}
+      \strng{authorfullhash}{b82e0b79f8f312d98e972f602595990d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01681699}
+      \field{journaltitle}{Computers and Electronics in Agriculture}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{shortjournal}{Computers and Electronics in Agriculture}
+      \field{title}{A survey of public datasets for computer vision tasks in precision agriculture}
+      \field{urlday}{13}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{178}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{105760}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.compag.2020.105760
       \endverb
-      \verb{url}
-      \verb https://www.scopus.com/inward/record.uri?eid=2-s2.0-85034756154&doi=10.3390%2frs9111110&partnerID=40&md5=def788a062beeb5e8aca5a9d94db4e18
+    \endentry
+    \entry{bouguettaya_deep_2022}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6aa372e73f00fa569a93c696c6799a54}{%
+           family={Bouguettaya},
+           familyi={B\bibinitperiod},
+           given={Abdelmalek},
+           giveni={A\bibinitperiod}}}%
+        {{hash=791736819c101b91f4e8ca310e8cda3c}{%
+           family={Zarzour},
+           familyi={Z\bibinitperiod},
+           given={Hafed},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8acf280499b7b9bc722d0ab27d521206}{%
+           family={Kechida},
+           familyi={K\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod}}}%
+        {{hash=50c30ea601b293c0cc6ce52789e41f8c}{%
+           family={Taberkit},
+           familyi={T\bibinitperiod},
+           given={Amine\bibnamedelima Mohammed},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9bb7f82b2a894f3677b74bc6899cfd9a}
+      \strng{fullhash}{d49ebe98ab613061b72f3dd4f5176786}
+      \strng{bibnamehash}{d49ebe98ab613061b72f3dd4f5176786}
+      \strng{authorbibnamehash}{d49ebe98ab613061b72f3dd4f5176786}
+      \strng{authornamehash}{9bb7f82b2a894f3677b74bc6899cfd9a}
+      \strng{authorfullhash}{d49ebe98ab613061b72f3dd4f5176786}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0941-0643, 1433-3058}
+      \field{journaltitle}{Neural Computing and Applications}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{12}
+      \field{shortjournal}{Neural Comput \& Applic}
+      \field{title}{Deep learning techniques to classify agricultural crops through {UAV} imagery: a review}
+      \field{urlday}{13}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{34}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{9511\bibrangedash 9536}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1007/s00521-022-07104-9
       \endverb
     \endentry
   \enddatalist
