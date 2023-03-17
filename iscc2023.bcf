@@ -91,7 +91,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>6</bcf:value>
+      <bcf:value>3</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -99,7 +99,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>6</bcf:value>
+      <bcf:value>3</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -321,7 +321,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>6</bcf:value>
+      <bcf:value>3</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -329,7 +329,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>6</bcf:value>
+      <bcf:value>3</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -2369,7 +2369,12 @@
     <bcf:citekey order="10" intorder="1">gurumurthy_mango_2019</bcf:citekey>
     <bcf:citekey order="10" intorder="2">guirado_mask_2021</bcf:citekey>
     <bcf:citekey order="11" intorder="1">ronneberger_u-net_2015</bcf:citekey>
-    <bcf:citekey order="12" intorder="1" nocite="1">*</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">s21051617</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">rs14061523</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">gurumurthy_mango_2019</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Natesan2019475</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">Vepakomma2018</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Egli20201</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

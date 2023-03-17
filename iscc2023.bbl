@@ -118,8 +118,8 @@
       }
       \strng{namehash}{6d8149701e9bb54c9167093eaa4b6042}
       \strng{fullhash}{646fbf6b52d08caf1be3ddec99e4d5a1}
-      \strng{bibnamehash}{646fbf6b52d08caf1be3ddec99e4d5a1}
-      \strng{authorbibnamehash}{646fbf6b52d08caf1be3ddec99e4d5a1}
+      \strng{bibnamehash}{6d8149701e9bb54c9167093eaa4b6042}
+      \strng{authorbibnamehash}{6d8149701e9bb54c9167093eaa4b6042}
       \strng{authornamehash}{6d8149701e9bb54c9167093eaa4b6042}
       \strng{authorfullhash}{646fbf6b52d08caf1be3ddec99e4d5a1}
       \field{sortinit}{3}
@@ -169,8 +169,8 @@
       }
       \strng{namehash}{bc463349978d22a433ae1fa5a531cd27}
       \strng{fullhash}{ec4f62ab7e91bf5486df62448d752f3c}
-      \strng{bibnamehash}{ec4f62ab7e91bf5486df62448d752f3c}
-      \strng{authorbibnamehash}{ec4f62ab7e91bf5486df62448d752f3c}
+      \strng{bibnamehash}{bc463349978d22a433ae1fa5a531cd27}
+      \strng{authorbibnamehash}{bc463349978d22a433ae1fa5a531cd27}
       \strng{authornamehash}{bc463349978d22a433ae1fa5a531cd27}
       \strng{authorfullhash}{ec4f62ab7e91bf5486df62448d752f3c}
       \field{sortinit}{8}
@@ -407,8 +407,8 @@
       }
       \strng{namehash}{bb3ab99c2948bceffe5afd97c481c620}
       \strng{fullhash}{81a2e809dffad4653992b2b9c6be9b37}
-      \strng{bibnamehash}{81a2e809dffad4653992b2b9c6be9b37}
-      \strng{authorbibnamehash}{81a2e809dffad4653992b2b9c6be9b37}
+      \strng{bibnamehash}{bb3ab99c2948bceffe5afd97c481c620}
+      \strng{authorbibnamehash}{bb3ab99c2948bceffe5afd97c481c620}
       \strng{authornamehash}{bb3ab99c2948bceffe5afd97c481c620}
       \strng{authorfullhash}{81a2e809dffad4653992b2b9c6be9b37}
       \field{sortinit}{9}
@@ -611,205 +611,9 @@
       \endverb
       \keyw{Computer Science - Computer Vision and Pattern Recognition}
     \endentry
-    \entry{LiSurvey2021}{article}{}
-      \name{author}{3}{}{%
-        {{hash=f591ba3f9c583b3f843f0ef227af5038}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Yansheng},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=42a43b68e533e39bbf05038fad61a09b}{%
-           family={Ma},
-           familyi={M\bibinitperiod},
-           given={Jiayi},
-           giveni={J\bibinitperiod}}}%
-        {{hash=e15e8454af64bad54150fbb7792b29d2}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Yongjun},
-           giveni={Y\bibinitperiod}}}%
-      }
-      \strng{namehash}{f5117ecc17d7ebe737e061416f0784cb}
-      \strng{fullhash}{f5117ecc17d7ebe737e061416f0784cb}
-      \strng{bibnamehash}{f5117ecc17d7ebe737e061416f0784cb}
-      \strng{authorbibnamehash}{f5117ecc17d7ebe737e061416f0784cb}
-      \strng{authornamehash}{f5117ecc17d7ebe737e061416f0784cb}
-      \strng{authorfullhash}{f5117ecc17d7ebe737e061416f0784cb}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1566-2535}
-      \field{journaltitle}{Information Fusion}
-      \field{title}{Image retrieval from remote sensing big data: A survey}
-      \field{volume}{67}
-      \field{year}{2021}
-      \true{nocite}
-      \field{pages}{94\bibrangedash 115}
-      \range{pages}{22}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.inffus.2020.10.008
-      \endverb
-      \keyw{Remote sensing (rs) big data,Rs image retrieval methods,Rs image retrieval applications,Evaluation datasets and performance discussion,Future research directions}
-    \endentry
-    \entry{Adao2017}{article}{}
-      \name{author}{7}{}{%
-        {{hash=39167ab419086a8a2fc2e6012c8a3ae9}{%
-           family={Adão},
-           familyi={A\bibinitperiod},
-           given={Telmo},
-           giveni={T\bibinitperiod}}}%
-        {{hash=8890887294e46c3dbe8cd026dc684188}{%
-           family={Hruška},
-           familyi={H\bibinitperiod},
-           given={Jonáš},
-           giveni={J\bibinitperiod}}}%
-        {{hash=379d76fb68d8353d2df7a3440ec52873}{%
-           family={Pádua},
-           familyi={P\bibinitperiod},
-           given={Luís},
-           giveni={L\bibinitperiod}}}%
-        {{hash=b924d047070172533b2d9324ad14e295}{%
-           family={Bessa},
-           familyi={B\bibinitperiod},
-           given={José},
-           giveni={J\bibinitperiod}}}%
-        {{hash=bda151a314df8c5ba1ee1019b52ea266}{%
-           family={Peres},
-           familyi={P\bibinitperiod},
-           given={Emanuel},
-           giveni={E\bibinitperiod}}}%
-        {{hash=5672130f9e6dfd860ccd60a266b51ce5}{%
-           family={Morais},
-           familyi={M\bibinitperiod},
-           given={Raul},
-           giveni={R\bibinitperiod}}}%
-        {{hash=497ff32dd906b65bfe6877d9b145ac17}{%
-           family={Sousa},
-           familyi={S\bibinitperiod},
-           given={Joaquim\bibnamedelima João},
-           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \strng{namehash}{761d3cba2f1717445075790de88833d0}
-      \strng{fullhash}{431ab2af36597358becc5fbf7f7b93cd}
-      \strng{bibnamehash}{761d3cba2f1717445075790de88833d0}
-      \strng{authorbibnamehash}{761d3cba2f1717445075790de88833d0}
-      \strng{authornamehash}{761d3cba2f1717445075790de88833d0}
-      \strng{authorfullhash}{431ab2af36597358becc5fbf7f7b93cd}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Remote Sensing}
-      \field{note}{Cited by: 572; All Open Access, Gold Open Access, Green Open Access}
-      \field{number}{11}
-      \field{title}{Hyperspectral imaging: A review on UAV-based sensors, data processing and applications for agriculture and forestry}
-      \field{type}{Article}
-      \field{volume}{9}
-      \field{year}{2017}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.3390/rs9111110
-      \endverb
-    \endentry
-    \entry{lu_survey_2020}{article}{}
-      \name{author}{2}{}{%
-        {{hash=ff82268cb4ef19500fe29f3af4f5d06c}{%
-           family={Lu},
-           familyi={L\bibinitperiod},
-           given={Yuzhen},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=0939e76239ee365cf6932b645e41a940}{%
-           family={Young},
-           familyi={Y\bibinitperiod},
-           given={Sierra},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{b82e0b79f8f312d98e972f602595990d}
-      \strng{fullhash}{b82e0b79f8f312d98e972f602595990d}
-      \strng{bibnamehash}{b82e0b79f8f312d98e972f602595990d}
-      \strng{authorbibnamehash}{b82e0b79f8f312d98e972f602595990d}
-      \strng{authornamehash}{b82e0b79f8f312d98e972f602595990d}
-      \strng{authorfullhash}{b82e0b79f8f312d98e972f602595990d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{01681699}
-      \field{journaltitle}{Computers and Electronics in Agriculture}
-      \field{langid}{english}
-      \field{month}{11}
-      \field{shortjournal}{Computers and Electronics in Agriculture}
-      \field{title}{A survey of public datasets for computer vision tasks in precision agriculture}
-      \field{urlday}{13}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{volume}{178}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{105760}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1016/j.compag.2020.105760
-      \endverb
-    \endentry
-    \entry{bouguettaya_deep_2022}{article}{}
-      \name{author}{4}{}{%
-        {{hash=6aa372e73f00fa569a93c696c6799a54}{%
-           family={Bouguettaya},
-           familyi={B\bibinitperiod},
-           given={Abdelmalek},
-           giveni={A\bibinitperiod}}}%
-        {{hash=791736819c101b91f4e8ca310e8cda3c}{%
-           family={Zarzour},
-           familyi={Z\bibinitperiod},
-           given={Hafed},
-           giveni={H\bibinitperiod}}}%
-        {{hash=8acf280499b7b9bc722d0ab27d521206}{%
-           family={Kechida},
-           familyi={K\bibinitperiod},
-           given={Ahmed},
-           giveni={A\bibinitperiod}}}%
-        {{hash=50c30ea601b293c0cc6ce52789e41f8c}{%
-           family={Taberkit},
-           familyi={T\bibinitperiod},
-           given={Amine\bibnamedelima Mohammed},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \strng{namehash}{9bb7f82b2a894f3677b74bc6899cfd9a}
-      \strng{fullhash}{d49ebe98ab613061b72f3dd4f5176786}
-      \strng{bibnamehash}{d49ebe98ab613061b72f3dd4f5176786}
-      \strng{authorbibnamehash}{d49ebe98ab613061b72f3dd4f5176786}
-      \strng{authornamehash}{9bb7f82b2a894f3677b74bc6899cfd9a}
-      \strng{authorfullhash}{d49ebe98ab613061b72f3dd4f5176786}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0941-0643, 1433-3058}
-      \field{journaltitle}{Neural Computing and Applications}
-      \field{langid}{english}
-      \field{month}{6}
-      \field{number}{12}
-      \field{shortjournal}{Neural Comput \& Applic}
-      \field{title}{Deep learning techniques to classify agricultural crops through {UAV} imagery: a review}
-      \field{urlday}{13}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{volume}{34}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{9511\bibrangedash 9536}
-      \range{pages}{26}
-      \verb{doi}
-      \verb 10.1007/s00521-022-07104-9
-      \endverb
-    \endentry
   \enddatalist
+  \missing{Natesan2019475}
+  \missing{Vepakomma2018}
 \endrefsection
 \endinput
 
