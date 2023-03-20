@@ -11,6 +11,15 @@
     keywords = {Remote sensing (rs) big data, Rs image retrieval methods, Rs image retrieval applications, Evaluation datasets and performance discussion, Future research directions}
 }
 
+@inproceedings{odc,
+author = {Killough, Brian},
+year = {2018},
+month = {07},
+pages = {8629-8632},
+title = {Overview of the Open Data Cube Initiative},
+doi = {10.1109/IGARSS.2018.8517694}
+}
+
 @ARTICLE{Adao2017,
 	author = {Adão, Telmo and Hruška, Jonáš and Pádua, Luís and Bessa, José and Peres, Emanuel and Morais, Raul and Sousa, Joaquim João},
 	title = {Hyperspectral imaging: A review on UAV-based sensors, data processing and applications for agriculture and forestry},
@@ -53,8 +62,8 @@ DOI = {10.3390/agriengineering4020029}
 @online{mcfadden2023precision,
   title={Precision Agriculture in the Digital Era: Recent Adoption on US Farms},
   author={McFadden, Jonathan and Njuki, Eric and Griffin, Terry},
-  year={2023},
-  url = {https://www.ers.usda.gov/webdocs/publications/105894/eib-248.pdf?v=9219.8}
+  year={2023}
+  %url = {https://www.ers.usda.gov/webdocs/publications/105894/eib-248.pdf?v=9219.8}
 }
 
 @article{lu_survey_2020,
@@ -67,7 +76,7 @@ DOI = {10.3390/agriengineering4020029}
 	journaltitle = {Computers and Electronics in Agriculture},
 	shortjournal = {Computers and Electronics in Agriculture},
 	author = {Lu, Yuzhen and Young, Sierra},
-	urldate = {2023-03-13},
+	%urldate = {2023-03-13},
 	date = {2020-11},
 	langid = {english},
 }
@@ -83,7 +92,7 @@ DOI = {10.3390/agriengineering4020029}
 	journaltitle = {Neural Computing and Applications},
 	shortjournal = {Neural Comput \& Applic},
 	author = {Bouguettaya, Abdelmalek and Zarzour, Hafed and Kechida, Ahmed and Taberkit, Amine Mohammed},
-	urldate = {2023-03-13},
+	%urldate = {2023-03-13},
 	date = {2022-06},
 	langid = {english},
 }
@@ -143,7 +152,7 @@ DOI = {10.3390/agriengineering4020029}
 	abstract = {Earth observation (EO) sensors deliver data at daily or weekly intervals. Most land use and land cover classiﬁcation (LULC) approaches, however, are designed for cloud-free and mono-temporal observations. The increasing temporal capabilities of today’s sensors enable the use of temporal, along with spectral and spatial features.Domains such as speech recognition or neural machine translation, work with inherently temporal data and, today, achieve impressive results by using sequential encoder-decoder structures. Inspired by these sequence-to-sequence models, we adapt an encoder structure with convolutional recurrent layers in order to approximate a phenological model for vegetation classes based on a temporal sequence of Sentinel 2 (S2) images. In our experiments, we visualize internal activations over a sequence of cloudy and non-cloudy images and ﬁnd several recurrent cells that reduce the input activity for cloudy observations. Hence, we assume that our network has learned cloud-ﬁltering schemes solely from input data, which could alleviate the need for tedious cloud-ﬁltering as a preprocessing step for many EO approaches. Moreover, using unﬁltered temporal series of top-of-atmosphere (TOA) reﬂectance data, our experiments achieved state-of-the-art classiﬁcation accuracies on a large number of crop classes with minimal preprocessing, compared to other classiﬁcation approaches.},
 	language = {en},
 	number = {4},
-	urldate = {2022-06-15},
+	%urldate = {2022-06-15},
 	journal = {ISPRS International Journal of Geo-Information},
 	author = {Rußwurm, Marc and Körner, Marco},
 	year = {2018},
@@ -157,7 +166,7 @@ DOI = {10.3390/agriengineering4020029}
 	% url = {http://arxiv.org/abs/1810.08462},
 	abstract = {This paper presents three fully convolutional neural network architectures which perform change detection using a pair of coregistered images. Most notably, we propose two Siamese extensions of fully convolutional networks which use heuristics about the current problem to achieve the best results in our tests on two open change detection datasets, using both RGB and multispectral images. We show that our system is able to learn from scratch using annotated change detection images. Our architectures achieve better performance than previously proposed methods, while being at least 500 times faster than related systems. This work is a step towards efﬁcient processing of data from large scale Earth observation systems such as Copernicus or Landsat.},
 	language = {en},
-	urldate = {2022-07-12},
+	%urldate = {2022-07-12},
 	publisher = {arXiv},
 	author = {Daudt, Rodrigo Caye and Saux, Bertrand Le and Boulch, Alexandre},
 	month = oct,
@@ -176,7 +185,7 @@ DOI = {10.3390/agriengineering4020029}
 	abstract = {Nowadays, modern earth observation programs produce huge volumes of satellite images time series (SITS) that can be useful to monitor geographical areas through time. How to efﬁciently analyze such kind of information is still an open question in the remote sensing ﬁeld. Recently, deep learning methods proved suitable to deal with remote sensing data mainly for scene classiﬁcation (i.e. Convolutional Neural Networks - CNNs - on single images) while only very few studies exist involving temporal deep learning approaches (i.e Recurrent Neural Networks - RNNs) to deal with remote sensing time series.},
 	language = {en},
 	number = {10},
-	urldate = {2022-06-15},
+	%urldate = {2022-06-15},
 	journal = {IEEE Geoscience and Remote Sensing Letters},
 	author = {Ienco, Dino and Gaetano, Raffaele and Dupaquier, Claire and Maurel, Pierre},
 	month = oct,
@@ -192,7 +201,7 @@ DOI = {10.3390/agriengineering4020029}
 	% url = {http://arxiv.org/abs/1907.06915},
 	abstract = {This work presents a method for semantic segmentation of mango trees in high resolution aerial imagery, and, a novel method for individual crown detection of mango trees using segmentation output. Mango Tree Net, a fully convolutional neural network (FCN), is trained using supervised learning to perform semantic segmentation of mango trees in imagery acquired using an unmanned aerial vehicle (UAV). The proposed network is retrained to separate touching/overlapping tree crowns in segmentation output. Contour based connected object detection is performed on the segmentation output from retrained network. Bounding boxes are drawn on the original images using coordinates of connected objects to achieve individual crown detection. The training dataset consists of 8, 824 image patches of size 240 × 240. The approach is tested for performance on segmentation and individual crown detection tasks using test datasets containing 36 and 4 images respectively. The performance is analyzed using standard metrics precision, recall, f1-score and accuracy. Results obtained demonstrate the robustness of the proposed methods despite variations in factors such as scale, occlusion, lighting conditions and surrounding vegetation.},
 	language = {en},
-	urldate = {2022-10-26},
+	%urldate = {2022-10-26},
 	publisher = {arXiv},
 	author = {Gurumurthy, Vikas Agaradahalli and Kestur, Ramesh and Narasipura, Omkar},
 	month = jul,
@@ -211,7 +220,7 @@ DOI = {10.3390/agriengineering4020029}
 	abstract = {Vegetation generally appears scattered in drylands. Its structure, composition and spatial patterns are key controls of biotic interactions, water, and nutrient cycles. Applying segmentation methods to very high-resolution images for monitoring changes in vegetation cover can provide relevant information for dryland conservation ecology. For this reason, improving segmentation methods and understanding the effect of spatial resolution on segmentation results is key to improve dryland vegetation monitoring. We explored and analyzed the accuracy of Object-Based Image Analysis (OBIA) and Mask Region-based Convolutional Neural Networks (Mask R-CNN) and the fusion of both methods in the segmentation of scattered vegetation in a dryland ecosystem. As a case study, we mapped Ziziphus lotus, the dominant shrub of a habitat of conservation priority in one of the driest areas of Europe. Our results show for the ﬁrst time that the fusion of the results from OBIA and Mask R-CNN increases the accuracy of the segmentation of scattered shrubs up to 25\% compared to both methods separately. Hence, by fusing OBIA and Mask R-CNNs on very high-resolution images, the improved segmentation accuracy of vegetation mapping would lead to more precise and sensitive monitoring of changes in biodiversity and ecosystem services in drylands.},
 	language = {en},
 	number = {1},
-	urldate = {2022-10-26},
+	%urldate = {2022-10-26},
 	journal = {Sensors},
 	author = {Guirado, Emilio and Blanco-Sacristán, Javier and Rodríguez-Caballero, Emilio and Tabik, Siham and Alcaraz-Segura, Domingo and Martínez-Valderrama, Jaime and Cabello, Javier},
 	month = jan,
@@ -223,17 +232,17 @@ DOI = {10.3390/agriengineering4020029}
 
 
 @misc{ronneberger_u-net_2015,
-	title = {U-Net: Convolutional Networks for Biomedical Image Segmentation},
+	title = {{U-Net: Convolutional Networks for Biomedical Image Segmentation}},
 %	url = {http://arxiv.org/abs/1505.04597},
+%   urldate = {2022-07-13},
 	shorttitle = {U-Net},
 	number = {{arXiv}:1505.04597},
 	publisher = {{arXiv}},
 	author = {Ronneberger, Olaf and Fischer, Philipp and Brox, Thomas},
-	urldate = {2022-07-13},
 	date = {2015-05-18},
 	langid = {english},
 	eprinttype = {arxiv},
-	eprint = {1505.04597 [cs]},
+	%eprint = {1505.04597 [cs]},
 	keywords = {Computer Science - Computer Vision and Pattern Recognition},
 	file = {Ronneberger et al. - 2015 - U-Net Convolutional Networks for Biomedical Image.pdf:/home/lore/Zotero/storage/XMPDRWWX/Ronneberger et al. - 2015 - U-Net Convolutional Networks for Biomedical Image.pdf:application/pdf},
 }
@@ -418,4 +427,94 @@ DOI = {10.3390/agriengineering4020029}
    title = {A compilation of UAV applications for precision agriculture},
    volume = {172},
    year = {2020},
+}
+
+@ARTICLE{Vepakomma2018,
+	author = {Vepakomma, Udayalakshmi and Kneeshaw, Daniel D. and De Grandpré, Louis},
+	title = {Influence of natural and anthropogenic linear canopy openings on forest structural patterns investigated using LiDAR},
+	year = {2018},
+	journal = {Forests},
+	volume = {9},
+	number = {9},
+	doi = {10.3390/f9090540},
+	%url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052969485&doi=10.3390%2ff9090540&partnerID=40&md5=56dc7a6291aeb1ae1c1e4cdd2b77d073},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	keywords = {misc},
+	note = {Cited by: 11; All Open Access, Gold Open Access, Green Open Access}
+}
+
+@CONFERENCE{Natesan2019475,
+	author = {Natesan, S. and Armenakis, C. and Vepakomma, U.},
+	title = {Resnet-based tree species classification using uav images},
+	year = {2019},
+	journal = {International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives},
+	volume = {42},
+	number = {2/W13},
+	pages = {475 – 481},
+	doi = {10.5194/isprs-archives-XLII-2-W13-475-2019},
+	%url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067515490&doi=10.5194%2fisprs-archives-XLII-2-W13-475-2019&partnerID=40&md5=b10a439b3446a8cc44371a883c212cf7},
+	type = {Conference paper},
+	publication_stage = {Final},
+	keywords = {rel_wor},
+	source = {Scopus},
+	note = {Cited by: 38; All Open Access, Gold Open Access, Green Open Access}
+}
+
+
+@misc{garcia-garcia_review_2017,
+	title = {A Review on Deep Learning Techniques Applied to Semantic Segmentation},
+	%url = {http://arxiv.org/abs/1704.06857},
+	abstract = {Image semantic segmentation is more and more being of interest for computer vision and machine learning researchers. Many applications on the rise need accurate and efﬁcient segmentation mechanisms: autonomous driving, indoor navigation, and even virtual or augmented reality systems to name a few. This demand coincides with the rise of deep learning approaches in almost every ﬁeld or application target related to computer vision, including semantic segmentation or scene understanding. This paper provides a review on deep learning methods for semantic segmentation applied to various application areas. Firstly, we describe the terminology of this ﬁeld as well as mandatory background concepts. Next, the main datasets and challenges are exposed to help researchers decide which are the ones that best suit their needs and their targets. Then, existing methods are reviewed, highlighting their contributions and their signiﬁcance in the ﬁeld. Finally, quantitative results are given for the described methods and the datasets in which they were evaluated, following up with a discussion of the results. At last, we point out a set of promising future works and draw our own conclusions about the state of the art of semantic segmentation using deep learning techniques.},
+	%number = {{arXiv}:1704.06857},
+	publisher = {{arXiv}},
+	author = {Garcia-Garcia, Alberto and Orts-Escolano, Sergio and Oprea, Sergiu and Villena-Martinez, Victor and Garcia-Rodriguez, Jose},
+	%urldate = {2023-01-19},
+	date = {2017-04-22},
+	langid = {english},
+	eprinttype = {arxiv},
+	%eprint = {1704.06857 [cs]},
+	keywords = {Computer Science - Artificial Intelligence, Computer Science - Computer Vision and Pattern Recognition},
+	file = {Garcia-Garcia et al. - 2017 - A Review on Deep Learning Techniques Applied to Se.pdf:/home/lore/Zotero/storage/N9N4FKY2/Garcia-Garcia et al. - 2017 - A Review on Deep Learning Techniques Applied to Se.pdf:application/pdf},
+}
+
+@article{moen_deep_2019,
+	title = {Deep learning for cellular image analysis},
+	volume = {16},
+	issn = {1548-7091, 1548-7105},
+	%url = {http://www.nature.com/articles/s41592-019-0403-1},
+	doi = {10.1038/s41592-019-0403-1},
+	pages = {1233--1246},
+	number = {12},
+	journaltitle = {Nature Methods},
+	shortjournal = {Nat Methods},
+	author = {Moen, Erick and Bannon, Dylan and Kudo, Takamasa and Graf, William and Covert, Markus and Van Valen, David},
+	%urldate = {2023-03-18},
+	date = {2019-12},
+	langid = {english},
+	file = {Moen et al. - 2019 - Deep learning for cellular image analysis.pdf:/home/lore/Zotero/storage/NTHU3WF9/Moen et al. - 2019 - Deep learning for cellular image analysis.pdf:application/pdf},
+}
+
+@article{seng2018computer,
+  title={Computer Vision and Machine Learning for Viticulture Technology},
+  author={Seng, Kah Phooi and Ang, Li-Minn and Schmidtke, Leigh M and Rogiers, Suzy Y},
+  journal={IEEE Access},
+  volume={6},
+  pages={67494--67510},
+  year={2018},
+  publisher={IEEE}
+}
+
+@article{RAJ2021103107,
+title = {A survey on the role of Internet of Things for adopting and promoting Agriculture 4.0},
+journal = {Journal of Network and Computer Applications},
+volume = {187},
+pages = {103107},
+year = {2021},
+issn = {1084-8045},
+doi = {https://doi.org/10.1016/j.jnca.2021.103107},
+%url = {https://www.sciencedirect.com/science/article/pii/S1084804521001284},
+author = {Meghna Raj and Shashank Gupta and Vinay Chamola and Anubhav Elhence and Tanya Garg and Mohammed Atiquzzaman and Dusit Niyato},
+abstract = {There is a rapid increase in the adoption of emerging technologies like the Internet of Things (IoT), Unmanned Aerial Vehicles (UAV), Internet of Underground Things (IoUT), Data analytics in the agriculture domain to meet the increased food demand to cater to the increasing population. Agriculture 4.0 is set to revolutionize agriculture productivity by using Precision Agriculture (PA), IoT, UAVs, IoUT, and other technologies to increase agriculture produce for growing demographics while addressing various farm-related issues. This survey provides a comprehensive overview of how multiple technologies such as IoT, UAVs, IoUT, Big Data Analytics, Deep Learning Techniques, and Machine Learning methods can be used to manage various farm-related operations. For each of these technologies, a detailed review is done on how the technology is being used in Agriculture 4.0. These discussions include an overview of relevant technologies, their use cases, existing case studies, and research works that demonstrate the use of these technologies in Agriculture 4.0. This paper also highlights the various future research gaps in the adoption of these technologies in Agriculture 4.0.}
 }
